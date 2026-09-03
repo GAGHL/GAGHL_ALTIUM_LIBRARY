@@ -1,9 +1,5 @@
-
-
-**/__Previews/
-
-**/History/*
-
-Project\ Logs*
-
-Project\ Outputs*/
+History/
+__Previews/
+__History/
+Project Logs for */
+Project Outputs for */
